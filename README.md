@@ -41,6 +41,10 @@ In this project, I successfully designed and implemented an FPGA-based radar spe
 However, the overall performance of the system was limited by the HB100 module. The maximum output frequency observed was significantly lower than expected, restricting measurable speeds to approximately 0–2 mph. While the signal processing and FPGA implementation were correct, this hardware limitation prevented the system from being used for higher-speed applications such as vehicle detection.
 In future work, this limitation could be addressed by selecting a Doppler module with a higher output frequency range or by improving the sensitivity and amplification stages of the circuit. Additionally, implementing more advanced signal processing techniques or filtering could improve accuracy and noise resilience. Despite its limitations, this project provided valuable experience in combining analog and digital design, working with real-world signals, and implementing mathematical models on FPGA hardware.
 
+<img width="2079" height="1299" alt="image" src="https://github.com/user-attachments/assets/b1764ee0-3597-4b10-b0d1-ea7514f889be" />
+
+
+# Demos
 https://www.youtube.com/watch?v=i8uyQCpuomU
 
 https://www.youtube.com/watch?v=ts4kDAqrsdw
